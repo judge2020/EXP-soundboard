@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ gson-2.2.4.jar jl1.0.1.jar mp3spi1.9.5.jar tritonu
+ s_share-0.3.6.jar AppleJavaExtensions.jar jave-1.0.2.jar JNativeHook.
+ jar miglayout15-swing.jar guava-18.0.jar
+Class-Path: .
+Rsrc-Main-Class: exp.gui.SoundboardFrame
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
